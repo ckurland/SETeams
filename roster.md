@@ -6,4 +6,4 @@
 
 ## Students
 
-* 
+* [Connor Kurland](https://github.com/ckurland)
